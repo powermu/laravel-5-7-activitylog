@@ -1,9 +1,10 @@
 {
-    "name": "spatie/laravel-activitylog",
+    "name": "powermu/laravel-activitylog",
     "description": "A very simple activity logger to monitor the users of your website or application",
-    "homepage": "https://github.com/spatie/activitylog",
+    "homepage": "https://github.com/powermu/laravel-5-7-activitylog",
     "keywords":
     [
+        "log 5.7",
         "spatie",
         "log",
         "user",
@@ -11,6 +12,12 @@
         "laravel"
     ],
     "authors": [
+        {
+            "name": "Murilo Michels Nunes",
+            "email": "powermu@gmail.com",
+            "homepage": "https://spatie.be",
+            "role": "Developer"
+        },
         {
             "name": "Freek Van der Herten",
             "email": "freek@spatie.be",
@@ -39,7 +46,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Spatie\\Activitylog\\": "src"
+            "Powermu\\Activitylog\\": "src"
         },
         "files": [
             "src/helpers.php"
@@ -47,7 +54,7 @@
     },
     "autoload-dev": {
         "psr-4": {
-            "Spatie\\Activitylog\\Test\\": "tests"
+            "Powermu\\Activitylog\\Test\\": "tests"
         }
     },
     "scripts": {
@@ -57,7 +64,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Spatie\\Activitylog\\ActivitylogServiceProvider"
+                "Powermu\\Activitylog\\ActivitylogServiceProvider"
             ]
         }
     },
