@@ -1,6 +1,6 @@
 <?php
 
-namespace Spatie\Activitylog;
+namespace Powermu\Activitylog;
 
 use Illuminate\Config\Repository;
 

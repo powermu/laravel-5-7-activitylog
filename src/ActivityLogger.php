@@ -1,6 +1,6 @@
 <?php
 
-namespace Spatie\Activitylog;
+namespace Powermu\Activitylog;
 
 use Spatie\String\Str;
 use Illuminate\Support\Arr;
