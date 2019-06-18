@@ -2,9 +2,9 @@
 
 namespace Powermu\Activitylog\Test;
 
-use Spatie\Activitylog\Models\Activity;
-use Spatie\Activitylog\Test\Models\User;
-use Spatie\Activitylog\Test\Models\Article;
+use Powermu\Activitylog\Models\Activity;
+use Powermu\Activitylog\Test\Models\User;
+use Powermu\Activitylog\Test\Models\Article;
 use Illuminate\Database\Eloquent\Relations\Relation;
 
 class ActivityModelTest extends TestCase

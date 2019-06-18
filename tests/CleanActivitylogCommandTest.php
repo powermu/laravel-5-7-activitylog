@@ -4,7 +4,7 @@ namespace Powermu\Activitylog\Test;
 
 use Artisan;
 use Carbon\Carbon;
-use Spatie\Activitylog\Models\Activity;
+use Powermu\Activitylog\Models\Activity;
 
 class CleanActivitylogCommandTest extends TestCase
 {

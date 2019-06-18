@@ -5,10 +5,10 @@ namespace Powermu\Activitylog\Test;
 use Auth;
 use Carbon\Carbon;
 use Illuminate\Support\Collection;
-use Spatie\Activitylog\Models\Activity;
-use Spatie\Activitylog\Test\Models\User;
-use Spatie\Activitylog\Test\Models\Article;
-use Spatie\Activitylog\Exceptions\CouldNotLogActivity;
+use Powermu\Activitylog\Models\Activity;
+use Powermu\Activitylog\Test\Models\User;
+use Powermu\Activitylog\Test\Models\Article;
+use Powermu\Activitylog\Exceptions\CouldNotLogActivity;
 
 class ActivityLoggerTest extends TestCase
 {

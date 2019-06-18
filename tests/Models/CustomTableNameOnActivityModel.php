@@ -2,7 +2,7 @@
 
 namespace Powermu\Activitylog\Test\Models;
 
-use Spatie\Activitylog\Models\Activity;
+use Powermu\Activitylog\Models\Activity;
 
 class CustomTableNameOnActivityModel extends Activity
 {

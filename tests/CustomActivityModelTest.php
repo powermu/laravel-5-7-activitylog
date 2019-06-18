@@ -2,10 +2,10 @@
 
 namespace Powermu\Activitylog\Test;
 
-use Spatie\Activitylog\Test\Models\Activity;
-use Spatie\Activitylog\Test\Models\InvalidActivity;
-use Spatie\Activitylog\Exceptions\InvalidConfiguration;
-use Spatie\Activitylog\Test\Models\AnotherInvalidActivity;
+use Powermu\Activitylog\Test\Models\Activity;
+use Powermu\Activitylog\Test\Models\InvalidActivity;
+use Powermu\Activitylog\Exceptions\InvalidConfiguration;
+use Powermu\Activitylog\Test\Models\AnotherInvalidActivity;
 
 class CustomActivityModelTest extends TestCase
 {

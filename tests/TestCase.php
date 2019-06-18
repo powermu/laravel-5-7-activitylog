@@ -5,11 +5,11 @@ namespace Powermu\Activitylog\Test;
 use CreateActivityLogTable;
 use Illuminate\Support\Arr;
 use Illuminate\Support\Facades\Schema;
-use Spatie\Activitylog\Models\Activity;
-use Spatie\Activitylog\Test\Models\User;
+use Powermu\Activitylog\Models\Activity;
+use Powermu\Activitylog\Test\Models\User;
 use Illuminate\Database\Schema\Blueprint;
-use Spatie\Activitylog\Test\Models\Article;
-use Spatie\Activitylog\ActivitylogServiceProvider;
+use Powermu\Activitylog\Test\Models\Article;
+use Powermu\Activitylog\ActivitylogServiceProvider;
 use Orchestra\Testbench\TestCase as OrchestraTestCase;
 
 abstract class TestCase extends OrchestraTestCase

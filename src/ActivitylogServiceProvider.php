@@ -4,10 +4,10 @@ namespace Powermu\Activitylog;
 
 use Illuminate\Database\Eloquent\Model;
 use Illuminate\Support\ServiceProvider;
-use Spatie\Activitylog\Contracts\Activity;
-use Spatie\Activitylog\Exceptions\InvalidConfiguration;
-use Spatie\Activitylog\Models\Activity as ActivityModel;
-use Spatie\Activitylog\Contracts\Activity as ActivityContract;
+use Powermu\Activitylog\Contracts\Activity;
+use Powermu\Activitylog\Exceptions\InvalidConfiguration;
+use Powermu\Activitylog\Models\Activity as ActivityModel;
+use Powermu\Activitylog\Contracts\Activity as ActivityContract;
 
 class ActivitylogServiceProvider extends ServiceProvider
 {

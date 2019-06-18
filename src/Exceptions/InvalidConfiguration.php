@@ -4,7 +4,7 @@ namespace Powermu\Activitylog\Exceptions;
 
 use Exception;
 use Illuminate\Database\Eloquent\Model;
-use Spatie\Activitylog\Contracts\Activity;
+use Powermu\Activitylog\Contracts\Activity;
 
 class InvalidConfiguration extends Exception
 {

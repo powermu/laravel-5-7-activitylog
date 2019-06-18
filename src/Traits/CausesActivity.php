@@ -2,7 +2,7 @@
 
 namespace Powermu\Activitylog\Traits;
 
-use Spatie\Activitylog\ActivitylogServiceProvider;
+use Powermu\Activitylog\ActivitylogServiceProvider;
 use Illuminate\Database\Eloquent\Relations\MorphMany;
 
 trait CausesActivity

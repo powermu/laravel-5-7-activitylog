@@ -2,8 +2,8 @@
 
 namespace Powermu\Activitylog\Test;
 
-use Spatie\Activitylog\Models\Activity;
-use Spatie\Activitylog\Test\Models\CustomTableNameOnActivityModel;
+use Powermu\Activitylog\Models\Activity;
+use Powermu\Activitylog\Test\Models\CustomTableNameOnActivityModel;
 
 class CustomTableNameModelTest extends TestCase
 {

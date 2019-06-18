@@ -8,8 +8,8 @@ use Illuminate\Auth\AuthManager;
 use Illuminate\Database\Eloquent\Model;
 use Illuminate\Support\Traits\Macroable;
 use Illuminate\Contracts\Config\Repository;
-use Spatie\Activitylog\Exceptions\CouldNotLogActivity;
-use Spatie\Activitylog\Contracts\Activity as ActivityContract;
+use Powermu\Activitylog\Exceptions\CouldNotLogActivity;
+use Powermu\Activitylog\Contracts\Activity as ActivityContract;
 
 class ActivityLogger
 {

@@ -2,7 +2,7 @@
 
 namespace Powermu\Activitylog\Test;
 
-use Spatie\Activitylog\Test\Models\User;
+use Powermu\Activitylog\Test\Models\User;
 
 class CausesActivityTest extends TestCase
 {

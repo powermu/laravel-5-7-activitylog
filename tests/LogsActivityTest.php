@@ -4,10 +4,10 @@ namespace Powermu\Activitylog\Test;
 
 use Carbon\Carbon;
 use Illuminate\Support\Collection;
-use Spatie\Activitylog\Models\Activity;
-use Spatie\Activitylog\Test\Models\User;
-use Spatie\Activitylog\Test\Models\Article;
-use Spatie\Activitylog\Traits\LogsActivity;
+use Powermu\Activitylog\Models\Activity;
+use Powermu\Activitylog\Test\Models\User;
+use Powermu\Activitylog\Test\Models\Article;
+use Powermu\Activitylog\Traits\LogsActivity;
 use Illuminate\Database\Eloquent\SoftDeletes;
 
 class LogsActivityTest extends TestCase
