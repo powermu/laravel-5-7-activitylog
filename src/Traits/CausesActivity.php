@@ -1,6 +1,6 @@
 <?php
 
-namespace Spatie\Activitylog\Traits;
+namespace Powermu\Activitylog\Traits;
 
 use Spatie\Activitylog\ActivitylogServiceProvider;
 use Illuminate\Database\Eloquent\Relations\MorphMany;

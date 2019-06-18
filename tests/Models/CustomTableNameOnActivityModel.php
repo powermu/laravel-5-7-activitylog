@@ -1,6 +1,6 @@
 <?php
 
-namespace Spatie\Activitylog\Test\Models;
+namespace Powermu\Activitylog\Test\Models;
 
 use Spatie\Activitylog\Models\Activity;
 

@@ -1,6 +1,6 @@
 <?php
 
-namespace Spatie\Activitylog\Test\Models;
+namespace Powermu\Activitylog\Test\Models;
 
 use Illuminate\Database\Eloquent\Model;
 use Spatie\Activitylog\Traits\CausesActivity;

@@ -1,6 +1,6 @@
 <?php
 
-namespace Spatie\Activitylog\Test;
+namespace Powermu\Activitylog\Test;
 
 use Carbon\Carbon;
 use Illuminate\Support\Collection;

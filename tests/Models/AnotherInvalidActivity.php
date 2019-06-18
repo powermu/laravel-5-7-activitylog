@@ -1,6 +1,6 @@
 <?php
 
-namespace Spatie\Activitylog\Test\Models;
+namespace Powermu\Activitylog\Test\Models;
 
 use Illuminate\Support\Arr;
 use Illuminate\Support\Collection;

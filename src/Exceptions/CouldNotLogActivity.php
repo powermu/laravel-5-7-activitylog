@@ -1,6 +1,6 @@
 <?php
 
-namespace Spatie\Activitylog\Exceptions;
+namespace Powermu\Activitylog\Exceptions;
 
 use Exception;
 

@@ -1,6 +1,6 @@
 <?php
 
-namespace Spatie\Activitylog\Test;
+namespace Powermu\Activitylog\Test;
 
 use Auth;
 use Carbon\Carbon;

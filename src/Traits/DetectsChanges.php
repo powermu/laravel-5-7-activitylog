@@ -1,6 +1,6 @@
 <?php
 
-namespace Spatie\Activitylog\Traits;
+namespace Powermu\Activitylog\Traits;
 
 use Illuminate\Support\Str;
 use Illuminate\Database\Eloquent\Model;
